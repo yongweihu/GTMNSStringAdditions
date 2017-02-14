@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "46963969D80E881304CE7AC032E3D888B5C6264B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "F5DC0621D9B9310795E596BB58D8B35A2EFAE8E7" : 9223372036854775807,
+    "46963969D80E881304CE7AC032E3D888B5C6264B" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6EECA757-9C19-4C6C-9261-4D31EA52B82A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "F5DC0621D9B9310795E596BB58D8B35A2EFAE8E7" : "..\/..",
+    "46963969D80E881304CE7AC032E3D888B5C6264B" : "GTMNSStringAdditions\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "GTMNSStringHTMLAdditions",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Framework\/GTMNSStringHTMLAdditions.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/yongweihu\/GTMNSStringAdditions.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "46963969D80E881304CE7AC032E3D888B5C6264B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.coding.net\/eareye\/StarDict.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F5DC0621D9B9310795E596BB58D8B35A2EFAE8E7"
+    }
+  ]
+}
